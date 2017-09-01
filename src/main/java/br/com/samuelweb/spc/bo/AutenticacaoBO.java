@@ -8,8 +8,8 @@ import org.apache.axis2.transport.http.impl.httpclient4.HttpTransportPropertiesI
  */
 public class AutenticacaoBO {
 
-    private static final String USUARIO = "398316";
-    private static final String SENHA = "27072017";
+    private static final String USUARIO = "";
+    private static final String SENHA = "";
 
     /**
      * Retorna Autenticação para Consumo do Ws
